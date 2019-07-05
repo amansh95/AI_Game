@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * Created by Rahul Gururaj on 5/27/2017.
+ * Created by Aman on 5/27/2017.
  */
 public class State implements Comparable<State>{
 
